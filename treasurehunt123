@@ -3,8 +3,8 @@ import hashlib
 import sys
 from hashlib import sha256
 
-#all credit to johncantrell https://gist.github.com/johncantrell97/bbab69bbde03d22eb8323fd94cd46db0
-#you need to first download word lists, the one I found online had 497k words and it helped with the first two passwords but the thirdpassword was not present. This resource has every possible word you can ask for 
+#all credit to @JohnCantrell97's breakdown available here (ruby): https://gist.github.com/johncantrell97/bbab69bbde03d22eb8323fd94cd46db0
+#you need to first download a word list, the one I found online had 497k words and it helped with the first two passwords but the thirdpassword was not present. This resource has every possible word you can ask for 
 #http://ftp.icm.edu.pl/packages/wordlists/ 
 
 
