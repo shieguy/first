@@ -7,6 +7,8 @@ from hashlib import sha256
 #you need to first download a word list, the one I found online had 497k words and it helped with the first two passwords but the thirdpassword was not present. This resource has every possible word you can ask for 
 #http://ftp.icm.edu.pl/packages/wordlists/ 
 
+#follow me at https://twitter.com/CoinBiased
+
 
 def main():
     #enter here your keys
